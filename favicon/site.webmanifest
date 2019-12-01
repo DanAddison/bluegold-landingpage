@@ -1,0 +1,19 @@
+{
+    "name": "bluegold",
+    "short_name": "bluegold",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#284446",
+    "background_color": "#284446",
+    "display": "standalone"
+}
